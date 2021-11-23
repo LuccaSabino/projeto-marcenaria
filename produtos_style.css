@@ -1,0 +1,95 @@
+/* Cabeçalho da Página */
+
+.logo{
+    width: 250px; 
+    display: inline-block; 
+    margin-left: 400px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cabeçalho{
+    position: relative;
+    display: flex;
+    background-color: #a8a7a7;
+    margin-bottom: 100px;
+
+}
+
+ul li{
+    margin-right: 20px;
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+ul{
+    position: absolute;
+    left: 58%;
+    top: 50%;
+
+
+}
+
+
+/* Blocos */
+
+.produtos{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 3px;
+    font-weight: bold;
+    font-size: 30px;
+    width: 280px;
+    height: 310px;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    
+}
+
+.blocos{
+    display: block;
+    text-align: center;
+}
+
+
+h1{
+    padding-top: 30px ;
+    padding-bottom: 10px;
+}
+
+.imagens_dos_produtos{
+    border-radius: 9px;
+    height: 200px;
+    width: 200px;
+}
+
+
+/* Rodapé da Página */
+
+.rodape{
+    margin-top: 60px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-image: url(imagens/bg.jpg);
+}
+
+
+.logo_branco{
+    margin-top: 30px;
+    width: 200px;
+
+}
+
+p{
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+
+nav a{
+    color: rgb(255, 208, 0);
+    text-decoration: underline;
+}

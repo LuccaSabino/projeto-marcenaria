@@ -1,0 +1,38 @@
+.centro{
+    text-align: center;
+}
+
+.fundo_cinza{
+    text-align: center;
+    background-color: rgb(150, 148, 148);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.img{
+    height: 500px;
+}
+
+em strong{
+    color: red;
+}
+
+.fonte {
+    font-size: 20px;
+}
+
+.imagem_beneficios{
+    width: 40%;
+    
+
+}
+
+.inline_block{
+    display: inline-block;
+}
+
+ul{
+    vertical-align: top;
+    width: 50%;
+    
+}
